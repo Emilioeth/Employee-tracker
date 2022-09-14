@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Emilioeth/Employee-tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "dotenv": "^16.0.2",
+    "dotenv": "^16.0.1",
     "inquirer": "^8.2.4",
     "mysql2": "^2.3.3"
   }
