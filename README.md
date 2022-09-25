@@ -31,9 +31,13 @@
       
 
   ## Usage/Installation
-  You can install this app by cloning the repo onto your computer, you can then run npm i on the command line at the root folder of the project as well as logging into the mysql shell and running source db/schema.sql. You will also need to create a .env file with your mysql credentials (DB_USER = 'your user' DB_PASSWORD = 'your password' and DB_NAME = 'employee_tracker') 
+  You can install this app by cloning the repo onto your computer, you will then need to run npm i on the command line at the root folder of the project as well as logging into the mysql shell (mysql -u root -p) and running source db/schema.sql. You will also need to create a .env file at the root folder with your mysql credentials (DB_USER = 'your user' DB_PASSWORD = 'your password' and DB_NAME = 'employee_tracker') 
 
   One installed as instructed above you can just simple run node index at the root of the project and answer the prompts!
+
+  WALKTHROUGH VIDEO -
+
+  https://drive.google.com/file/d/1MW9WSzK6zQkgUCD1mJP5tQD3Vf5tlLRj/view
 
   ## Contributions
   This project was made by Emili0
