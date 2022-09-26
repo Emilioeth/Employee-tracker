@@ -4,7 +4,6 @@
   ## Description
   Employee Tracker is an app made to facilitate the organization of a company, by providing a database thats easily accesible through the command line, giving you the options to add employees managers departments and roles
 
-  [Link]()
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Emilioeth.Employee+Tracker&left_color=blue&right_color=blue)
 
@@ -37,7 +36,7 @@
 
   WALKTHROUGH VIDEO -
 
-  https://drive.google.com/file/d/1MW9WSzK6zQkgUCD1mJP5tQD3Vf5tlLRj/view
+  [Video](https://drive.google.com/file/d/1MW9WSzK6zQkgUCD1mJP5tQD3Vf5tlLRj/view)
 
   ## Contributions
   This project was made by Emili0
